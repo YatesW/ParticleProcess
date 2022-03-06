@@ -7,3 +7,5 @@
 * `main_Poisson`:泊松分类法从预处理到分类，最后到后处理的完整执行脚本
 * `jupyter.ipynb`:以上代码的jupyter版本，jupyter便于可视化。该版本中加入了一些画图功能便于进行对比
 * `层级聚类_cluster_Poisson`:对泊松法分类结果进行层级聚类 (Hierarchical Clustering) 的代码，其中包含了可视化函数便于对比效果。（距离参数分别使用了欧氏距离和相关性）
+* `particle_get_mass.ipynb`:对泊松分类得到的颗粒态粒子进行质量（质量分布）计算和主成分统计。
+<img src='F:/生态安全数据/数据集构造/质量计算及归一化/Reference/form_of_mass_processed.png' width='660px'>
